@@ -1,5 +1,17 @@
 # 起步
 
+## 开始
+
+- 下载地址
+
+`git clone https://github.com/keno-lee/memo-cli.git`
+
+- 执行命令
+
+`npm install`  安装依赖
+
+`npm link`  写入全局命令
+
 ## lerna.js
 
 - 定义：
