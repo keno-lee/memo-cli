@@ -1,0 +1,11 @@
+{
+  "name": "memojs",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.4.0"
+  },
+  "dependencies": {
+    "ora": "^3.0.0",
+    "shelljs": "^0.8.2"
+  }
+}
